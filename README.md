@@ -8,15 +8,13 @@ I'm not a programmer, meaning that I used to create microprocessor systems and h
 
 My coding partner is ChatGPT. In our collaboration, I act as the product owner, setting tasks, testing the code to make sure it works as intended and does exactly what I want it to do. ChatGPT serves as the developer, mentor, consultant, and teacher all at once. I couldn't create amazing things without such a helpful assistant. Thanks to everyone who made this opportunity possible.
 
-Everything I know now, I learned from scratch, with ChatGPT as my only teacher. I never turned to anyone else to learn what I can do. I never read a single textbook or guide. Even when I use third-party services and don't understand something, I always ask ChatGPT first, and in 90% of cases, I get better answers than what I could find in the often terrible documentation.
+I learned everything I know from scratch, and my amazing teacher was none other than ChatGPT! I didn't need any other resources or guides. Even when I use third-party services and don't understand something, ChatGPT always has the best answers.
 
-If I could learn all of this at almost 60 years old, so can you. Of course, I don't deny that I have a strong technical background and hold a degree in Information Systems. However, professionally, I worked more than 30 years ago, so you could say that I'm learning everything from scratch.
+If I can learn all of this at almost 60 years old, so can you. I do have a strong technical background and hold a degree in Information Systems, but professionally, I worked over 30 years ago. So, you could say that I'm starting from scratch, too!
 
-Don't hesitate, learn quickly, and change your life and this beautiful world for the better.
+Don't be afraid to learn something new and don't hesitate to ask ChatGPT for help. With a little effort and the right guidance, you can achieve anything you set your mind to. Let's learn and grow together!
 
-Я создаю много контента, включая текст и видеолекции. Но давайте будем честными, переводить или записывать все это на английский язык иногда может быть настоящей головной болью. Это занимает много времени и может быть дорогим, если нанимать людей для этого.
-
-Вот где пригодятся эти полезные утилиты! Они разработаны для того, чтобы облегчить вашу жизнь, автоматизируя трудоемкие задачи перевода, записи, создания резюме и создания субтитров для ваших видео.
+Я создаю много контента, включая текст и видеолекции. Но давайте будем честными, переводить или записывать все это на английский язык иногда может быть настоящей головной болью. Это занимает много времени и может быть дорогим, если нанимать людей для этого. Вот где пригодятся эти полезные утилиты! Они разработаны для того, чтобы облегчить вашу жизнь, автоматизируя трудоемкие задачи перевода, записи, создания резюме и создания субтитров для ваших видео.
 
 Все эти инструменты написаны на Python и используют некоторые потрясающие возможности API Open AI. Так что, почему бы не попробовать и не посмотреть, сколько времени и усилий вы можете сэкономить?
 
