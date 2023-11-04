@@ -1,4 +1,5 @@
 1_eng_output_articles.csv - пример входного файла
+
 output_articles.csv - пример ВЫХОДНОГО файла
 
 csv2.py - код программы
