@@ -1,4 +1,4 @@
-1_eng_output_articles.csv - пример входного файла
+1_eng_output_articles.csv - пример ВХОДНОГО файла
 
 output_articles.csv - пример ВЫХОДНОГО файла
 
