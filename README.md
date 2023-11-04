@@ -18,3 +18,7 @@ Twitter: https://twitter.com/old_alexeykrol
 Facebook: https://www.facebook.com/alex.v.krol
 Youtube: https://www.youtube.com/c/AlexKrol
 TikTok: https://www.tiktok.com/@alexeykrol
+
+Folders:
+
+Code - https://github.com/alexeykrol/AI_stuff/tree/main/code
